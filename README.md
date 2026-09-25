@@ -1,8 +1,8 @@
 # Indigenous Knowledge Books: Linked Data Dataset
 
 Making books by Indigenous authors easier to find, using metadata that respects how authors and communities describe themselves.
-At a glance: 50 book records · RDF/Turtle · BIBFRAME, Schema.org, Wikidata, VIAF · X̱wi7x̱wa Library Classification · Guided by the CARE Principles · 
-**License:** CC BY 4.0  [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+**At a glance:** 50 book records · RDF/Turtle · BIBFRAME, Schema.org, Wikidata, VIAF · X̱wi7x̱wa Library Classification · Guided by the CARE Principles · 
+**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 By avgeller · LS 563 Linked Data, University of Alabama · v1.0, April 2026
 
 ---
