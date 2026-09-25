@@ -1,9 +1,9 @@
 # Indigenous Knowledge Books: Linked Data Dataset
 
-**Author:** avgeller
-**License:** [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
-**Course:** MLIS - LS563 Linked Data U of A (first course project)
-**Version:** 1.0: April 2026
+Making books by Indigenous authors easier to find, using metadata that respects how authors and communities describe themselves.
+At a glance: 50 book records · RDF/Turtle · BIBFRAME, Schema.org, Wikidata, VIAF · X̱wi7x̱wa Library Classification · Guided by the CARE Principles · 
+**License:** CC BY 4.0  [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+By avgeller · LS 563 Linked Data, University of Alabama · v1.0, April 2026
 
 ---
 
@@ -32,12 +32,9 @@
 # Indigenous Knowledge Books — Linked Data Dataset
 
 ## Dataset Description
-
-This dataset contains 50 linked data records of books focused on Indigenous Knowledge, inspired by the Kaggle dataset by ziya07 (2025), Indigenous knowledge systems. It was created to make works by predominantly Indigenous authors more accessible through culturally relevant metadata. The dataset also includes a sample of five books by non-Indigenous authors whose work meaningfully engages with Indigenous perspectives, recognizing the role of cross-cultural scholarship.
-
-The dataset draws on the X̱wi7x̱wa Library Classification System (Indigenous Knowledge Organization, University of British Columbia), using Indigenous-centered subject headings and classification codes in place of Eurocentric frameworks. The dataset distinguishes Indigenous authors' backgrounds from the backgrounds of non-Indigenous authors. While this information may need refinement, it represents the dataset owner's best effort for a first Linked Data course project.
-
-The intent is that this dataset serves as one contribution to a broader, ongoing conversation around intellectual property rights and provenance for Traditional Knowledge (TK) through linked data ontologies. Other projects and initiatives exist in this space; this adds one more entry point: open to iteration and community contribution, including additional authors, contributors, titles, and (where available) author-identified background information.
+Most library systems describe Indigenous knowledge through Eurocentric categories. This dataset takes a different approach: it classifies 50 books using the X̱wi7x̱wa Library Classification System (University of British Columbia), an Indigenous-centered framework, and grounds each author's background in their own self-identification wherever possible.
+The collection centers works by Indigenous authors and includes five books by non-Indigenous authors whose work meaningfully engages with Indigenous perspectives. It is one contribution to a broader conversation about provenance and intellectual property for Traditional Knowledge (TK) in linked data, and it is open to corrections, additions, and community contribution.
+Start here: open indigenous-knowledge-books.ttl for the linked data, or indigenous-knowledge-books.csv for a spreadsheet view.
 
 ---
 
